@@ -4,10 +4,10 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
 	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<dc:title></dc:title>
+	<dc:title>Презентация PowerPoint</dc:title>
 	<dc:creator>Belozertsev Eduard</dc:creator>
 	<cp:lastModifiedBy>Belozertsev Eduard</cp:lastModifiedBy>
-	<cp:revision>1</cp:revision>
+	<cp:revision>2</cp:revision>
 	<dcterms:created xsi:type="dcterms:W3CDTF">2023-11-24T05:38:19Z</dcterms:created>
-	<dcterms:modified xsi:type="dcterms:W3CDTF">2023-11-24T05:38:20Z</dcterms:modified>
+	<dcterms:modified xsi:type="dcterms:W3CDTF">2023-11-24T05:44:05Z</dcterms:modified>
 </cp:coreProperties>

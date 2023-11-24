@@ -5,6 +5,9 @@
 	<p:sldMasterIdLst>
 		<p:sldMasterId id="2147483648" r:id="rId1" />
 	</p:sldMasterIdLst>
+	<p:sldIdLst>
+		<p:sldId id="256" r:id="rId2" />
+	</p:sldIdLst>
 	<p:sldSz cx="12192000" cy="6858000" />
 	<p:notesSz cx="6858000" cy="9144000" />
 	<p:defaultTextStyle>
@@ -111,4 +114,9 @@
 			</a:defRPr>
 		</a:lvl9pPr>
 	</p:defaultTextStyle>
+	<p:extLst>
+		<p:ext uri="{EFAFB233-063F-42B5-8137-9DF3F51BA10A}">
+			<p15:sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main" />
+		</p:ext>
+	</p:extLst>
 </p:presentation>

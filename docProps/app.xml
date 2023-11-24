@@ -6,7 +6,7 @@
 	<Application>Microsoft Office PowerPoint</Application>
 	<PresentationFormat>Широкоэкранный</PresentationFormat>
 	<Paragraphs>0</Paragraphs>
-	<Slides>0</Slides>
+	<Slides>1</Slides>
 	<Notes>0</Notes>
 	<HiddenSlides>0</HiddenSlides>
 	<MMClips>0</MMClips>
@@ -29,16 +29,17 @@
 				<vt:lpstr>Заголовки слайдов</vt:lpstr>
 			</vt:variant>
 			<vt:variant>
-				<vt:i4>0</vt:i4>
+				<vt:i4>1</vt:i4>
 			</vt:variant>
 		</vt:vector>
 	</HeadingPairs>
 	<TitlesOfParts>
-		<vt:vector size="4" baseType="lpstr">
+		<vt:vector size="5" baseType="lpstr">
 			<vt:lpstr>Arial</vt:lpstr>
 			<vt:lpstr>Calibri</vt:lpstr>
 			<vt:lpstr>Calibri Light</vt:lpstr>
 			<vt:lpstr>Тема Office</vt:lpstr>
+			<vt:lpstr>Презентация PowerPoint</vt:lpstr>
 		</vt:vector>
 	</TitlesOfParts>
 	<Company></Company>

@@ -7,6 +7,8 @@
 		ContentType="application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml" />
 	<Override PartName="/ppt/slideMasters/slideMaster1.xml"
 		ContentType="application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml" />
+	<Override PartName="/ppt/slides/slide1.xml"
+		ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml" />
 	<Override PartName="/ppt/presProps.xml"
 		ContentType="application/vnd.openxmlformats-officedocument.presentationml.presProps+xml" />
 	<Override PartName="/ppt/viewProps.xml"
