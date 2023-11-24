@@ -65,6 +65,54 @@
 					</a:p>
 				</p:txBody>
 			</p:sp>
+			<p:sp>
+				<p:nvSpPr>
+					<p:cNvPr id="3" name="Прямоугольник 2">
+						<a:extLst>
+							<a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+								<a16:creationId
+									xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+									id="{31199A93-7655-5201-FE32-98FA05634BF7}" />
+							</a:ext>
+						</a:extLst>
+					</p:cNvPr>
+					<p:cNvSpPr />
+					<p:nvPr />
+				</p:nvSpPr>
+				<p:spPr>
+					<a:xfrm>
+						<a:off x="3052549" y="457200" />
+						<a:ext cx="2122227" cy="2122227" />
+					</a:xfrm>
+					<a:prstGeom prst="rect">
+						<a:avLst />
+					</a:prstGeom>
+				</p:spPr>
+				<p:style>
+					<a:lnRef idx="2">
+						<a:schemeClr val="accent1">
+							<a:shade val="15000" />
+						</a:schemeClr>
+					</a:lnRef>
+					<a:fillRef idx="1">
+						<a:schemeClr val="accent1" />
+					</a:fillRef>
+					<a:effectRef idx="0">
+						<a:schemeClr val="accent1" />
+					</a:effectRef>
+					<a:fontRef idx="minor">
+						<a:schemeClr val="lt1" />
+					</a:fontRef>
+				</p:style>
+				<p:txBody>
+					<a:bodyPr rtlCol="0" anchor="ctr" />
+					<a:lstStyle />
+					<a:p>
+						<a:pPr algn="ctr" />
+						<a:endParaRPr lang="ru-RU" />
+					</a:p>
+				</p:txBody>
+			</p:sp>
 		</p:spTree>
 		<p:extLst>
 			<p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
